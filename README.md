@@ -7,7 +7,7 @@ This project focuses on market segmentation for electric vehicles (EVs) by apply
 
 Data preprocessing is crucial for improving the quality of data and ensuring accurate results. The steps involved in preprocessing include:
 
--- Handling Missing Values: Checking for and addressing missing values to avoid incorrect analysis.
+-> Handling Missing Values: Checking for and addressing missing values to avoid incorrect analysis.
 Removing Duplicates: Ensuring there are no duplicate records in the dataset.
 Identifying Outliers: Detecting and treating outliers that may distort the model's learning process.
 Data Encoding: Converting categorical data into a suitable numerical format for machine learning algorithms.
